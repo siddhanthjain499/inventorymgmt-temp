@@ -1,0 +1,38 @@
+.topbar{
+    padding: 30px 3em 30px 5em;
+    margin-top: 0;
+}
+
+.home_heading{
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+
+.home_text{
+    font-size: 15px;
+    margin: 35px  0;
+}
+
+.home_text_alt{
+    font-size: 15px;
+    color: #707070;
+}
+
+.entire_div{
+    height: 60vh;
+    margin-top: 50px;
+    width: 100%;
+}
+
+.cus_card{
+    background-color: #ffffff;
+    height: 200px;
+    width: 400px;
+    padding: 30px 50px;
+
+    margin-bottom: 60px;
+}
+
+.cus_content{
+    text-align: center;
+}

@@ -1,0 +1,42 @@
+.topbar{
+    padding: 30px 3em 30px 5em;
+}
+h1{
+    font-size: 2em;
+    margin-bottom: 90px;
+}
+.main_right{
+    height: 70vh;
+    overflow: scroll;
+}
+.home_text{
+    font-size: 15px;
+    margin: 35px  0;
+}
+.invent-item{
+    background: #F2F5FA 0% 0% no-repeat padding-box;
+    height: 14em;
+    width: 30em;
+    font-size: 12px;
+    color: #ffffff;
+    /* height: 20vh; */
+    padding: 10px 15px 30px 30px;
+    position: relative;
+    
+    color: #191919;
+    border-radius: 4px;
+}
+.typedish .cost{
+    color: #727272;
+}
+.invent-item p{
+    color: #707070;
+}
+.invent-item .typedish{
+    color: #191919;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+.invent-item .stock_status{
+    color: #FF0000;
+}

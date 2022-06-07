@@ -1,0 +1,8 @@
+.layout{
+    height: 100vh;
+    overflow: hidden;
+}
+
+.main{
+    padding: 3em 4em;
+}

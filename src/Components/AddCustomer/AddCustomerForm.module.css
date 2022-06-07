@@ -1,0 +1,47 @@
+.topbar{
+    padding: 30px 3em 30px 5em;
+    margin-top: 0;
+}
+
+.home_heading{
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+
+.home_text_heading{
+    font-size: 15px;
+    margin-bottom: 5em;
+}
+
+.home_text_alt{
+    font-size: 15px;
+    color: #707070;
+}
+
+.cus_form{
+    padding: 0px 24px 80px 24px;
+}
+
+.right_grid{
+    position: relative;
+    /* margin-left: 50px; */
+}
+
+.right_grid .submit_btn{    
+    background-color: #191919;
+    color: #ffffff; 
+    padding: 15px 60px;
+    margin-top: 50px;
+
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.right_grid .submit_btn:hover{
+    color: #191919;
+}
+
+.right_grid .hello{
+    margin-bottom: 70px;
+}

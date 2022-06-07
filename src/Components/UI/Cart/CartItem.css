@@ -1,0 +1,31 @@
+
+.inventory-item{
+    background: #F2F5FA 0% 0% no-repeat padding-box;
+    height: max-content;
+    width: 100%;
+    font-size: 12px;
+
+    /* padding: 1px 15px 30px 30px; */
+    position: relative;
+    /* margin-top: 10px; */
+    /* margin-left: 1em; */
+    /* margin-right: 1em; */
+    /* margin-bottom: 10px; */
+    color: #191919;
+    border-radius: 4px;
+}
+
+.typedish .cost{
+    color: #727272;
+    flex-direction: row;
+    float: right;
+    padding-right: 5px;
+}
+.inventory-item p{
+    color: #707070;
+}
+.inventory-item .typedish{
+    color: #191919;
+    font-weight: bolder;
+    font-size: 1.5em;
+}

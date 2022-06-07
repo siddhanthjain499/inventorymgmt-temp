@@ -1,0 +1,52 @@
+.topbar{
+    padding: 30px 3em 30px 5em;
+}
+
+.home_heading{
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+
+.home_text{
+    font-size: 15px;
+    margin: 35px  0 10px 0;
+}
+
+.home_text_alt{
+    font-size: 30px;
+    color: #707070;
+    margin: 0;
+}
+
+.individual_section{
+    overflow: scroll;
+    height: 65vh;
+}
+
+.customer_card{
+    padding: 10px 30px;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 5px;
+    
+    margin-bottom: 30px;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #F2F5FA; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }

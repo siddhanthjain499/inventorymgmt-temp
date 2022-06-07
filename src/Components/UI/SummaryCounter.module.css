@@ -1,0 +1,39 @@
+.summary_name{
+    background-color: #ffffff;
+    position: relative;
+    height: 50px;
+    
+    font-size: 13px;
+    border-radius: 5px;
+
+    padding: 0 15px;
+}
+
+.summ_card_col{
+    background-color: #191919;
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    margin:5px;
+}
+
+.summ_card{
+    background-color: #ffffff;
+    /* padding: 0 auto; */
+}
+
+.summary_count{
+    background-color: #ffffff;
+    height: 50px;
+    width: 50px;
+
+    border-radius: 5px;
+}
+
+.summary_count p{
+    font-size: 15px;
+    margin: 0;
+    padding: 15px 0;
+    /* padding: 0 auto; */
+    text-align: center;
+}

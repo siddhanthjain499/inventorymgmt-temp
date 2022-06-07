@@ -1,0 +1,15 @@
+.topbar{
+    padding: 30px 3em 30px 5em;
+    margin-top: 0;
+}
+.home_heading{
+    font-weight: 800;
+    font-size: 1.5em;
+    margin-bottom: 3em;
+}
+.sub_button{
+    margin-top: 50px;
+        
+    right: 0px;
+    bottom: 0px;
+}

@@ -1,0 +1,41 @@
+.invent_item{
+    background: #F2F5FA 0% 0% no-repeat padding-box;
+    height: 14em;
+    width: 30em;
+    font-size: 12px;
+    color: #ffffff;
+    /* height: 20vh; */
+    /* padding: 10px 15px 30px 30px; */
+    padding: 5px 30px;
+    position: relative;
+    
+    color: #191919;
+    border-radius: 4px;
+}
+
+.typedish .cost{
+    color: #727272;
+}
+
+.invent_item p{
+    color: #707070;
+}
+
+.invent_item .typedish{
+    color: #191919;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+.invent_item button{
+    border: 1px solid #727272;
+    background-color: #FFFFFF;
+    color: black;
+    padding: 8px 16px;
+    border: 8px;
+    cursor: pointer;
+
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
